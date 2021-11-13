@@ -1,5 +1,5 @@
 # cursor
-Respositório de atividades práticas do curso de Introdução à liguagem R
+## Respositório de atividades práticas do curso de Introdução à liguagem R
 
 Links das atividades:
 
